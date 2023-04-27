@@ -1,7 +1,7 @@
 # kauppalista
 
 - [ ] Nakit (+veget)
-- [ ] kattila
+- [x] kattila
 - [ ] Lihapullat
 - [ ] Perunasalde
 - [ ] Sinappi
