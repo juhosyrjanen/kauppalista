@@ -1,7 +1,7 @@
 # kauppalista
 
 - [ ] Nakit (+veget)
-- [ ] kattila
+- [x] kattila
 - [ ] Lihapullat
 - [ ] Perunasalde
 - [ ] Sinappi
@@ -11,6 +11,7 @@
 - [ ] Kasvisnakki
 - [ ] Hodarisämpylät
 - [ ] Paahdettu Sipulihommelia
+- [ ] Hodaritaskut tai 1/4 suodatinpussit (pirkka parhaat niksi)
 - [ ] Kurkkusalaatti
 - [ ] Sipsu
 - [ ] Sima
